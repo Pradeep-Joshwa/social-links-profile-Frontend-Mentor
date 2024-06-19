@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot (148)](https://github.com/Pradeep-Joshwa/social-links-profile-Frontend-Mentor/assets/100898870/ba40ca98-8fba-4652-96f6-6d4ae23321f7)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/social-links-profile-frontend-mentor-CwZiuOp-Ab))
+- Live Site URL: [Click here](https://social-links-profile-pradeepjoshwa.netlify.app/)
 
 ## My process
 
@@ -41,14 +42,12 @@ Users should be able to:
 - Flexbox
 
 
-
 ### What I learned
 
-I learned about flexbox and responsive design and media queries very deeply and how it works in different screen sizes
+I learned about Flexbox and responsive design and media queries very deeply and how it works in different screen sizes
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- LinkedIn - [Pradeep Joshwa](https://www.linkedin.com/in/pradeep-joshwa-b6650221b/)
+- Frontend Mentor - [@Pradeep-Joshwa](https://www.frontendmentor.io/profile/Pradeep-Joshwa)
+- GitHub - [@Pradeep-Joshwa](https://github.com/Pradeep-Joshwa)
