@@ -25,7 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot (148)](https://github.com/Pradeep-Joshwa/social-links-profile-Frontend-Mentor/assets/100898870/ba40ca98-8fba-4652-96f6-6d4ae23321f7)
+![Screenshot 0](https://github.com/Pradeep-Joshwa/social-links-profile-Frontend-Mentor/assets/100898870/115ea7a3-1dc0-4edb-845a-df57af598d59)
+![Screenshot (148)](https://github.com/Pradeep-Joshwa/social-links-profile-Frontend-Mentor/assets/100898870/a896e22a-ec6a-41bc-a8f7-0a13633fa8ac)
+
 
 
 ### Links
