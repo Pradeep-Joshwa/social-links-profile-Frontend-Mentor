@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Inter-Bold";
+    src: url('./assets/fonts/static/Inter-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Inter-Regular";
+    src: url('./assets/fonts/static/Inter-Regular.ttf');
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+
+    width: 25rem;
+    height: 42rem;
+    margin: 10rem auto;
+    background-color: hsl(0, 0%, 12%);
+    border: 1px solid black;
+    color: white;
+    border-radius: 1rem;
+
+}
+
+.dp img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 3rem 9.2rem;
+    margin-bottom: auto;
+
+}
+
+h1 {
+    font-family: 'Inter-Regular';
+    margin: 1.5rem 4.5rem;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    margin-bottom: auto;
+}
+
+.place {
+    font-family: 'Inter-Bold';
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    font-size: medium;
+    color: hsl(75, 94%, 57%);
+}
+
+.desc {
+    font-family: 'Inter-Regular';
+    margin: 2rem 4.5rem;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.link {
+    font-family: 'inter-regular';
+    font-size: smaller;
+    font-weight: 700;
+    border-radius: .5rem;
+    background-color: hsl(0, 0%, 20%);
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    width: 70%;
+    margin: 0 auto 1rem;
+}
+
+.link:active{
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+    color: black;
+}
+
+.link:hover{
+    cursor: pointer;
+}
